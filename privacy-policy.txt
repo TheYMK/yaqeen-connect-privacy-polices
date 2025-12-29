@@ -1,0 +1,118 @@
+Privacy Policy
+
+Yaqeen Connect – Your Ultimate Muslim Companion
+
+Last updated: December 2025
+
+1. Introduction
+
+Yaqeen Connect (“we”, “our”, “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Yaqeen Connect mobile application (the “App”).
+By using Yaqeen Connect, you agree to the collection and use of information in accordance with this Privacy Policy.
+
+
+2. Data Controller
+
+The data controller responsible for processing your personal data is:
+
+- Name: Kaym Kassai
+- Email: kassai.kaym@gmail.com
+
+If you have any questions regarding this Privacy Policy or your data, you can contact us using the email above.
+
+3. Target Audience & Children
+
+Yaqeen Connect is not specifically intended for children under the age of 13, but it may be accessible to them.
+We do not knowingly collect personal data from children under 13. If you believe that a child has provided us with personal information without parental consent, please contact us and we will take appropriate action to remove such data.
+
+4. Account Registration
+
+Creating an account is optional. Some features of the App can be used anonymously.
+When creating an account, we may collect the following information:
+
+- Name or username
+- Email address
+- Profile photo
+
+Users may also choose to use the App without creating an account, in which case no personal data is stored on our servers.
+
+5. Data We Collect
+
+5.1 Personal Data
+
+If you create an account, we collect:
+
+- Name or username
+- Email address
+- Profile photo
+
+5.2 Location Data
+
+We collect approximate location data (city/country) strictly to:
+
+- Calculate accurate prayer times
+- Determine Qibla direction
+
+Location data is:
+
+- Used only in real time
+- Not stored
+- Not shared with third parties
+
+5.3 Sensitive Data
+
+We do not collect or store sensitive religious data. All religious features operate in a purely technical manner and do not involve profiling or tracking religious behavior.
+
+6. Data Usage
+
+- Approximate location is used temporarily to provide accurate prayer times and Qibla direction.
+- Reading history, favorites, and preferences are stored locally on the user’s device
+- No reading habits or preferences are stored on our servers
+- User-generated content (such as profile information) is visible only according to the feature’s design and user actions.
+
+7. Payments & Subscriptions
+
+- Yaqeen Connect offers a freemium model with optional purchases or subscriptions.
+- All payments are processed securely via Google Play or Apple App Store
+- We do not collect or store any payment or banking information
+
+8. Data Sharing
+
+We do not:
+
+- Share personal data with third parties
+- Sell user data
+- Use data for advertising or marketing purposes
+
+9. Data Security
+
+We implement industry-standard security measures to protect your data, including:
+
+- Data encryption
+- Restricted access controls
+- Secure storage practices
+- Despite our efforts, no digital system can be guaranteed to be 100% secure.
+
+10. Data Retention
+
+We retain personal data only as long as your account remains active.
+When an account is deleted:
+
+- All associated personal data is permanently removed from our systems
+
+11. User Rights (GDPR & Google Play Compliance)
+Users have the right to:
+
+- Access their personal data
+- Correct their personal data
+- Delete their account and personal data
+- Withdraw consent at any time
+- Account deletion and data removal can be requested directly from within the App.
+
+12. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be communicated through the App or by updating this page.
+Continued use of the App after changes indicates acceptance of the updated policy.
+
+13. Contact Us
+If you have any questions or concerns about this Privacy Policy or your personal data, please contact:
+📧 kassai.kaym@gmail.com
