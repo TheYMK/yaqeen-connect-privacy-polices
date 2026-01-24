@@ -1,118 +1,39 @@
-Privacy Policy
+# Privacy Policy
 
-Yaqeen Connect – Your Ultimate Muslim Companion
+**Yaqeen Connect**
 
-Last updated: December 2025
+This privacy policy describes how the Yaqeen Connect app collects, uses, and protects your information.
 
-1. Introduction
+---
 
-Yaqeen Connect (“we”, “our”, “us”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Yaqeen Connect mobile application (the “App”).
-By using Yaqeen Connect, you agree to the collection and use of information in accordance with this Privacy Policy.
+## What we collect
 
+We may collect: account information (email, username, profile picture); your approximate or precise location when you use prayer times, Qibla, or the Islamic calendar; device information (model, OS, language, app version); and, when you use the Yaqeen AI recitation feature, your voice recording, which is sent to our servers for AI-based analysis to provide you with recitation feedback.
 
-2. Data Controller
+## Why we collect it
 
-The data controller responsible for processing your personal data is:
+We use this data to provide and personalize the app (e.g. prayer times for your location), to create and manage your account, to process subscriptions through RevenueCat and its payment processors, and to comply with legal obligations. When you use Yaqeen AI, we use your audio solely to generate recitation feedback for you.
 
-- Name: Kaym Kassai
-- Email: kassai.kaym@gmail.com
+## Use of artificial intelligence (Yaqeen AI)
 
-If you have any questions regarding this Privacy Policy or your data, you can contact us using the email above.
+We use artificial intelligence only in the Yaqeen AI recitation feature. When you use it, you record your recitation of a verse; that recording is sent to our systems for AI analysis. The AI evaluates your pronunciation and accuracy and returns feedback such as an overall score, a word-by-word assessment, and suggestions to improve. This is the only use of AI in the app. The feedback results may be stored on your device. We do not use your recordings for any other purpose.
 
-3. Target Audience & Children
+## How long we keep it
 
-Yaqeen Connect is not specifically intended for children under the age of 13, but it may be accessible to them.
-We do not knowingly collect personal data from children under 13. If you believe that a child has provided us with personal information without parental consent, please contact us and we will take appropriate action to remove such data.
+We keep your data as long as your account is active and as needed to provide the service. After you delete your account, we remove or anonymize your personal data within a reasonable period, except where we must retain it for legal, tax, or dispute purposes. Voice recordings sent for Yaqeen AI analysis are not retained on our servers after the feedback has been generated.
 
-4. Account Registration
+## Who we share it with
 
-Creating an account is optional. Some features of the App can be used anonymously.
-When creating an account, we may collect the following information:
+We share data only with RevenueCat and the payment processors it uses (e.g. Apple, Google) to manage subscriptions on iOS and Android. These parties have their own privacy policies and may process data outside your country. We do not use Firebase, Google Analytics, or any other analytics or cloud provider. We do not sell your personal data.
 
-- Name or username
-- Email address
-- Profile photo
+## Your rights
 
-Users may also choose to use the App without creating an account, in which case no personal data is stored on our servers.
+Depending on your place of residence, you may have the right to access, correct, or delete your personal data, to object to or restrict certain processing, and to data portability. You can update or delete your account and much of your data from within the app. For other requests, please contact us. You may also have the right to lodge a complaint with a supervisory authority.
 
-5. Data We Collect
+## Minors
 
-5.1 Personal Data
+The app is not intended for users under the age of 13. We do not use the app to knowingly solicit data from or market to children under 13. The app does not address anyone under 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we will delete it from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us at yaqeenconnect@gmail.com so that we can take the necessary actions.
 
-If you create an account, we collect:
+## Contact
 
-- Name or username
-- Email address
-- Profile photo
-
-5.2 Location Data
-
-We collect approximate location data (city/country) strictly to:
-
-- Calculate accurate prayer times
-- Determine Qibla direction
-
-Location data is:
-
-- Used only in real time
-- Not stored
-- Not shared with third parties
-
-5.3 Sensitive Data
-
-We do not collect or store sensitive religious data. All religious features operate in a purely technical manner and do not involve profiling or tracking religious behavior.
-
-6. Data Usage
-
-- Approximate location is used temporarily to provide accurate prayer times and Qibla direction.
-- Reading history, favorites, and preferences are stored locally on the user’s device
-- No reading habits or preferences are stored on our servers
-- User-generated content (such as profile information) is visible only according to the feature’s design and user actions.
-
-7. Payments & Subscriptions
-
-- Yaqeen Connect offers a freemium model with optional purchases or subscriptions.
-- All payments are processed securely via Google Play or Apple App Store
-- We do not collect or store any payment or banking information
-
-8. Data Sharing
-
-We do not:
-
-- Share personal data with third parties
-- Sell user data
-- Use data for advertising or marketing purposes
-
-9. Data Security
-
-We implement industry-standard security measures to protect your data, including:
-
-- Data encryption
-- Restricted access controls
-- Secure storage practices
-- Despite our efforts, no digital system can be guaranteed to be 100% secure.
-
-10. Data Retention
-
-We retain personal data only as long as your account remains active.
-When an account is deleted:
-
-- All associated personal data is permanently removed from our systems
-
-11. User Rights (GDPR & Google Play Compliance)
-Users have the right to:
-
-- Access their personal data
-- Correct their personal data
-- Delete their account and personal data
-- Withdraw consent at any time
-- Account deletion and data removal can be requested directly from within the App.
-
-12. Changes to This Privacy Policy
-
-We may update this Privacy Policy from time to time. Any changes will be communicated through the App or by updating this page.
-Continued use of the App after changes indicates acceptance of the updated policy.
-
-13. Contact Us
-If you have any questions or concerns about this Privacy Policy or your personal data, please contact:
-📧 kassai.kaym@gmail.com
+For privacy-related requests, questions, or to report a concern, please contact us at yaqeenconnect@gmail.com or via the in-app contact option if available. We will respond as soon as practicable.
